@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{C1575C2D-41CA-4063-9791-1387C6569324}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classwork/Person.cs">
+    <Files>
+      <File FileName="Classwork/Program.cs" Line="10" Column="31" />
+      <File FileName="Classwork/Person.cs" Line="12" Column="1" />
+      <File FileName="Classwork/Student.cs" Line="30" Column="126" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Classwork" expanded="True">
+            <Node name="Classwork" expanded="True">
+              <Node name="Person.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Classwork FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
